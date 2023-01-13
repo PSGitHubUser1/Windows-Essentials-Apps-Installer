@@ -26,7 +26,7 @@ body:
     description: Which operating system do you use with MCreator?
     options:
      - Windows
-     - macOS
+     - macOS [Install Homebrew]
      - Linux
      - Other (Tell us at the Specifications part)
    validations:
