@@ -1,4 +1,6 @@
 ## This is a .cmd file. It installs:
+![](https://img.shields.io/github/release-date/PSGitHubUser1/Windows-Essentials-Apps-Installer)
+![](https://img.shields.io/github/v/release/PSGitHubUser1/Windows-Essentials-Apps-Installer?include_prereleases)
 
  * Microsoft PowerToys
  * Blockbench
