@@ -25,5 +25,3 @@
 
 ## Made by me [@PSGitHubUser1] 
 
-#### Copyright © 2023 InfoyTech
-#### This should not be distributed or published after modifications.
