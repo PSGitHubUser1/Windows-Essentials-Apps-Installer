@@ -11,7 +11,6 @@
  * GitHub Desktop
  * GIMP
 
-## Made by me [@PSGitHubUser1] 
+## Made by me [@PSGitHubUser1](https://github.com/PSGitHubUser1)
 
-#### Copyright © 2023 InfoyTech
 #### This should not be distributed or published after modifications.
