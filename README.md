@@ -13,6 +13,9 @@
 ![](https://img.shields.io/github/v/release/PSGitHubUser1/Windows-Essentials-Apps-Installer?include_prereleases)
 
  * Microsoft PowerToys
+ * VS Code
+ * Clipchamp
+ * OBS Studio
  * Blockbench
  * WingetUI
  * Microsoft PC Manager
