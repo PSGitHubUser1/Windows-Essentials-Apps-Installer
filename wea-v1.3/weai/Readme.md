@@ -1,9 +1,16 @@
 ## This is a .cmd file. It installs/uninstalls:
 
  * Microsoft PowerToys
+ * Python
+ * Twitter
+ * Facebook
  * VS Code
+ * Clipchamp
+ * OBS Studio
+ * Instagram
  * Blockbench
  * WingetUI
+ * Phone Link / Your Phone
  * Microsoft PC Manager
  * Notepad++
  * 7-Zip
@@ -12,7 +19,6 @@
  * GitHub Desktop
  * GIMP
 
-## Made by me [@PSGitHubUser1] 
+## Made by me [@PSGitHubUser1](https://github.com/PSGitHubUser1)
 
-#### Copyright © 2023 InfoyTech
 #### This should not be distributed or published after modifications.

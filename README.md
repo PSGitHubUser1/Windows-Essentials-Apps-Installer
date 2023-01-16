@@ -8,13 +8,21 @@
  Method 2: Go [here](https://github.com/microsoft/winget-cli/releases) and install the latest release.
  
 ----------
-## This is a .cmd file. It installs:
 ![](https://img.shields.io/github/release-date/PSGitHubUser1/Windows-Essentials-Apps-Installer)
 ![](https://img.shields.io/github/v/release/PSGitHubUser1/Windows-Essentials-Apps-Installer?include_prereleases)
 
+## This is a .cmd file. It installs:
  * Microsoft PowerToys
+ * Python
+ * Twitter
+ * Facebook
+ * VS Code
+ * Clipchamp
+ * OBS Studio
+ * Instagram
  * Blockbench
  * WingetUI
+ * Phone Link / Your Phone
  * Microsoft PC Manager
  * Notepad++
  * 7-Zip
@@ -23,7 +31,5 @@
  * GitHub Desktop
  * GIMP
 
-## Made by me [@PSGitHubUser1] 
-
-#### Copyright © 2023 InfoyTech
+# Made by me [@PSGitHubUser1](https://github.com/PSGitHubUser1)
 #### This should not be distributed or published after modifications.

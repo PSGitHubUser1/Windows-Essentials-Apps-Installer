@@ -1,6 +1,9 @@
-## This is a .cmd file. It installs:
+## This is a .cmd file. It installs/uninstalls:
 
  * Microsoft PowerToys
+ * VS Code
+ * Clipchamp
+ * OBS Studio
  * Blockbench
  * WingetUI
  * Microsoft PC Manager
@@ -11,7 +14,6 @@
  * GitHub Desktop
  * GIMP
 
-## Made by me [@PSGitHubUser1] 
+## Made by me [@PSGitHubUser1](https://github.com/PSGitHubUser1)
 
-#### Copyright © 2023 InfoyTech
 #### This should not be distributed or published after modifications.
