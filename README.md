@@ -6,7 +6,7 @@
 ## $ ⛔Requirements⛔ 
  This requires `winget` to run this .cmd file successfully.
  
- ## $ ⬇️Download `Winget`⬇️ 
+ ## $ ⬇️Download `winget`⬇️ 
  
  Method 1: Search on MS Store "App Installer" or click [here](https://apps.microsoft.com/store/detail/app-installer/9NBLGGH4NNS1) 
  > Recommended ↑
