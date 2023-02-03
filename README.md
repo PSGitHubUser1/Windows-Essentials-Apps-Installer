@@ -8,9 +8,9 @@
  
  ## $ ⬇️Download `Winget`⬇️ 
  
- Method 1: Search on MS Store "App Installer" or click [here](https://apps.microsoft.com/store/detail/app-installer/9NBLGGH4NNS1)
+ Method 1: Search on MS Store "App Installer" or click [here](https://apps.microsoft.com/store/detail/app-installer/9NBLGGH4NNS1) {Recommended}
  
- Method 2: Go [here](https://github.com/microsoft/winget-cli/releases) and install the latest release.
+ Method 2: Go [here](https://github.com/microsoft/winget-cli/releases) and install the latest release. {Not Recommended}
  
 ----------
 ![](https://img.shields.io/github/release-date/PSGitHubUser1/Windows-Essentials-Apps-Installer)
