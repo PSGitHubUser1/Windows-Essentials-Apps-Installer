@@ -9,10 +9,10 @@
  ## $ ⬇️Download `winget`⬇️ 
  
  Method 1: Search on MS Store "App Installer" or click [here](https://apps.microsoft.com/store/detail/app-installer/9NBLGGH4NNS1) 
- > Recommended ↑
+ > ### Recommended ↑
  
  Method 2: Go [here](https://github.com/microsoft/winget-cli/releases) and install the latest release. 
- > Not Recommended ↑
+ > ### Not Recommended ↑
  
 ----------
 ![](https://img.shields.io/github/release-date/PSGitHubUser1/Windows-Essentials-Apps-Installer)
@@ -37,6 +37,8 @@
  * ShareX
  * GitHub Desktop
  * GIMP
+ 
+ > ### * Uninstaller is available which will uninstall apps which are included in this .cmd file.
 
 # Made by me [@PSGitHubUser1](https://github.com/PSGitHubUser1)
 #### This should not be distributed or published after modifications.
