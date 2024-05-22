@@ -4,7 +4,8 @@
 ![](https://img.shields.io/badge/Made%20by-PSGitHubUser1-blue)
 
 ## $ Requirements
- This script requires `winget` to run this .cmd file successfully.
+ * This script requires `winget` to run this .cmd file successfully.
+ * Windows 10 build 1709 is minimum to install `winget`
  
  ## $ Download `winget`
  
