@@ -45,8 +45,8 @@
   * MPV
   * VS Code
 
- > ### * Uninstaller is available which will uninstall apps which are included in this .cmd file.
-> ### * The Uninstaller will soon be updated, not now though...
+ > ### * Uninstaller is available which will uninstall apps which are included in this .cmd file. (till v1.3 for now)
+> ### * The Uninstaller will updated, but not now...
 
 # Made by me [@PSGitHubUser1](https://github.com/PSGitHubUser1)
 #### This should not be distributed or published after tweaks.
