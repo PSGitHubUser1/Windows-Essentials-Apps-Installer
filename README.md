@@ -8,8 +8,8 @@
  * Windows 10 build 1709 is minimum to install `winget`
  
  ## $ Download `winget`
- * Method 1: Search on MS Store "App Installer" or click [here](https://apps.microsoft.com/store/detail/app-installer/9NBLGGH4NNS1) [Recommended]
-* Method 2: Go [here](https://github.com/microsoft/winget-cli/releases) and install the latest release. [Not recommended]
+ * Method 1: Search on MS Store "App Installer" or click [here](https://apps.microsoft.com/store/detail/app-installer/9NBLGGH4NNS1) *[Recommended]*
+* Method 2: Go [here](https://github.com/microsoft/winget-cli/releases) and install the latest release. *[Not recommended]*
 
  
 ----------
