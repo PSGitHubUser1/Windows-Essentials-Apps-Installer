@@ -6,7 +6,7 @@
 ## $ Requirements
  * This script requires `winget` to run this .cmd file successfully.
  * Windows 10 build 1709 is minimum to install `winget`
-   * To check your build of Windows, press `Windows key + R` & type `winver`.
+   * To check your build of Windows, press `Windows key + R` & type `winver`
  
  ## $ Download `winget`
  * Method 1: Search on MS Store "App Installer" or click [here](https://apps.microsoft.com/store/detail/app-installer/9NBLGGH4NNS1). *[Recommended]*
