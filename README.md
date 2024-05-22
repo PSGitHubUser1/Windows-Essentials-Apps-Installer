@@ -33,7 +33,7 @@
  * Java (Oracle, JDK 17)
  * VLC Media Player
  * DirectX, the setup file will be downloaded on Desktop, install it manually.
- ## These apps' codes are commented, if you want to install, just remove '::' from the code.
+ ## These apps' codes are commented, if you want to install, just remove `::` from the code.
   * Twitter
   * Facebook
   * Clipchamp
