@@ -25,8 +25,6 @@
  * Notepad++
  * 7-Zip
  * Audacity
- * ShareX
- * GitHub Desktop
  * GIMP
  * Visual C++ 2013, 2015-2019 Redistributables
  * FFmpeg
@@ -38,6 +36,8 @@
   * Twitter
   * Facebook
   * Clipchamp
+  * Github Desktop
+  * ShareX
   * Instagram
   * WingetUI
   * Phone Link / Your Phone
